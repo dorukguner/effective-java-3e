@@ -53,4 +53,6 @@ public enum Elvis {
 * Guaranteed against multiple instantiation and reflection attacks
 * **Note this can't extend a superclass**
 
+[View complete classes of each approach here](../src/effectivejava/chapter2/item3)
+
 TODO link to item 30 and 89 below

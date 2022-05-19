@@ -4,7 +4,7 @@
 * [Item 1: Consider static factory methods instead of constructors](Chapter-2/Item-1-Consider-static-factory-methods-instead-of-constructors.md)
 * [Item 2: Consider a builder when faced with many constructor parameters](Chapter-2/Item-2-Consider-a-builder-when-faced-with-many-constructor-parameters.md)
 * [Item 3: Enforce the singleton property with a private constructor or an enum type](Chapter-2/Item-3-Enforce-the-singleton-property-with-a-private-constructor-or-enum-type.md)
-* Item 4: Enforce noninstantiability with a private constructor
+* [Item 4: Enforce non-instantiability with a private constructor](Chapter-2/Item-4-Enforce-noninstantiability-with-a-private-constructor.md)
 * Item 5: Perfer dependecy injection to hardwiring resources
 * Item 6: Avoid creating unnecessary objects
 * Item 7: Eliminate obsolete object references
