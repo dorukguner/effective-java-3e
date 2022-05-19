@@ -10,7 +10,7 @@ public class Elvis {
     public void leaveTheBuilding() { ... }
 }
 ```
-* It is clear the class is a singleton due to the public static final instance
+* Clear the class is a singleton due to the public static final instance
 
 ### Singleton with Static Factory
 ```
@@ -53,4 +53,4 @@ public enum Elvis {
 * Guaranteed against multiple instantiation and reflection attacks
 * **Note this can't extend a superclass**
 
-// TODO link to item 30 and 89 below
+TODO link to item 30 and 89 below

@@ -1,9 +1,9 @@
 # Effective Java 3rd Edition
 ## Chapter 1 - Prefix
 ## Chapter 2 - Creating and Destroying Objects
-* Item 1: Consider static factory methods instead of constructors
-* Item 2: Consider a builder when faced with many constructor parameters
-* Item 3: Enforce the singleton property with a private constructor or an enum type
+* [Item 1: Consider static factory methods instead of constructors](Chapter-2/Item-1-Consider-static-factory-methods-instead-of-constructors.md)
+* [Item 2: Consider a builder when faced with many constructor parameters](Chapter-2/Item-2-Consider-a-builder-when-faced-with-many-constructor-parameters.md)
+* [Item 3: Enforce the singleton property with a private constructor or an enum type](Chapter-2/Item-3-Enforce-the-singleton-property-with-a-private-constructor-or-enum-type.md)
 * Item 4: Enforce noninstantiability with a private constructor
 * Item 5: Perfer dependecy injection to hardwiring resources
 * Item 6: Avoid creating unnecessary objects
