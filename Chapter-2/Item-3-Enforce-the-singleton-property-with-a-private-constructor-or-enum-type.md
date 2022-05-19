@@ -10,7 +10,6 @@ public class Elvis {
     public void leaveTheBuilding() { ... }
 }
 ```
-#### Advantages
 * It is clear the class is a singleton due to the public static final instance
 
 ### Singleton with Static Factory
@@ -24,7 +23,6 @@ public class Elvis {
 }
 ```
 
-#### Advantages
 * Gives you flexibility. E.g. could be made to return a new instance for each thread that invokes it
 * Allows for a *generic singleton factory* (item 30) 
 * A *method reference* can be used as a supplier
@@ -50,7 +48,6 @@ public enum Elvis {
     public void leaveTheBuilding() { ... }
 }
 ```
-#### Advantages
 * Concise
 * Provides serialization for free
 * Guaranteed against multiple instantiation and reflection attacks
