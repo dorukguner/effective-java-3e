@@ -7,7 +7,7 @@
 * [Item 4: Enforce non-instantiability with a private constructor](Chapter-2/Item-4-Enforce-noninstantiability-with-a-private-constructor.md)
 * [Item 5: Perfer dependecy injection to hardwiring resources](Chapter-2/Item-5-Prefer-dependency-injection-to-hardwiring-resources.md)
 * [Item 6: Avoid creating unnecessary objects](Chapter-2/Item-6-Avoid-creating-unnecessary-objects.md)
-* Item 7: Eliminate obsolete object references
+* [Item 7: Eliminate obsolete object references](Chapter-2/Item-7-Eliminate-obsolete-object-refrences.md)
 * Item 8: Avoid finalizers and cleaners
 * Item 9: Prefer try-with-resources to try-finally
 ## Chapter 3 - Methods Common to All Objects
