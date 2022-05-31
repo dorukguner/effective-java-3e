@@ -8,7 +8,7 @@
 * [Item 5: Perfer dependecy injection to hardwiring resources](Chapter-2/Item-5-Prefer-dependency-injection-to-hardwiring-resources.md)
 * [Item 6: Avoid creating unnecessary objects](Chapter-2/Item-6-Avoid-creating-unnecessary-objects.md)
 * [Item 7: Eliminate obsolete object references](Chapter-2/Item-7-Eliminate-obsolete-object-refrences.md)
-* Item 8: Avoid finalizers and cleaners
+* [Item 8: Avoid finalizers and cleaners](Chapter-2/Item-8-Avoid-finalizers-and-cleaners.md)
 * Item 9: Prefer try-with-resources to try-finally
 ## Chapter 3 - Methods Common to All Objects
 * Item 10: Obey the general contract when overriding equals
