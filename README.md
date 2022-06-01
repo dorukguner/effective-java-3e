@@ -9,7 +9,7 @@
 * [Item 6: Avoid creating unnecessary objects](Chapter-2/Item-6-Avoid-creating-unnecessary-objects.md)
 * [Item 7: Eliminate obsolete object references](Chapter-2/Item-7-Eliminate-obsolete-object-refrences.md)
 * [Item 8: Avoid finalizers and cleaners](Chapter-2/Item-8-Avoid-finalizers-and-cleaners.md)
-* Item 9: Prefer try-with-resources to try-finally
+* [Item 9: Prefer try-with-resources to try-finally](Chapter-2/Item-9-Prefer-try-with-resources-to-try-finally.md)
 ## Chapter 3 - Methods Common to All Objects
 * Item 10: Obey the general contract when overriding equals
 * Item 11: Always override hashCode when you override equals
