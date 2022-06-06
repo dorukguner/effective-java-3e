@@ -12,7 +12,7 @@
 * [Item 9: Prefer try-with-resources to try-finally](Chapter-2/Item-9-Prefer-try-with-resources-to-try-finally.md)
 ## Chapter 3 - Methods Common to All Objects
 * [Item 10: Obey the general contract when overriding equals](Chapter-3/Item-10-Obey-the-general-contract-when-overriding-equals.md)
-* Item 11: Always override hashCode when you override equals
+* [Item 11: Always override hashCode when you override equals](Chapter-3/Item-11-Always-override-hashCode-when-you-override-equals.md)
 * Item 12: Always override toString
 * Item 13: Override clone judiciously
 * Item 14: Consider implementing Comparable
