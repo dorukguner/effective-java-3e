@@ -58,3 +58,5 @@ If you decide not to specify a format, the documentation should read something l
 
 **Always provide programmatic access to the information contained in the value returned by *toString*.** Failing to do so
 will force programmers who need this information to parse the string.
+
+[A PhoneNumber class with a specified format toString method can be found here](../src/effectivejava/chapter3/item12/PhoneNumber.java)
