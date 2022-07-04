@@ -21,7 +21,7 @@
 * [Item 16: In public classes, use accessor methods, not public fields](Chapter-4/Item-16-In-public-classes-use-accessor-methods-not-public-fields.md)
 * [Item 17: Minimize mutability](Chapter-4/Item-17-Minimize-mutability.md)
 * [Item 18: Favor composition over inheritance](Chapter-4/Item-18-Favor-composition-over-inheritance.md)
-* Item 19: Design and document for inheritance or else prohibit it
+* [Item 19: Design and document for inheritance or else prohibit it](Chapter-4/Item-19-Design-and-document-for-inheritance-or-else-prohibit-it.md)
 * Item 20: Prefer interfaces to abstract classes
 * Item 21: Design interfaces for posterity
 * Item 22: Use interfaces only to define types
