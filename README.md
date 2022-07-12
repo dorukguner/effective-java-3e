@@ -15,9 +15,9 @@
 * [Item 11: Always override hashCode when you override equals](Chapter-3/Item-11-Always-override-hashCode-when-you-override-equals.md)
 * [Item 12: Always override toString](Chapter-3/Item-12-Always-override-toString.md)
 * [Item 13: Override clone judiciously](Chapter-3/Item-13-Override-clone-judiciously.md)
-* Item 14: Consider implementing Comparable
+* [Item 14: Consider implementing Comparable](Chapter-3/Item-14-Consider-implementing-comparable.md)
 ## Chapter 4 - Classes and Interfaces
-* Item 15: Minimize the accessibility of classes and members
+* [Item 15: Minimize the accessibility of classes and members](Chapter-4/Item-15-Minimize-the-accesibility-of-classes-and-members.md)
 * [Item 16: In public classes, use accessor methods, not public fields](Chapter-4/Item-16-In-public-classes-use-accessor-methods-not-public-fields.md)
 * [Item 17: Minimize mutability](Chapter-4/Item-17-Minimize-mutability.md)
 * [Item 18: Favor composition over inheritance](Chapter-4/Item-18-Favor-composition-over-inheritance.md)
