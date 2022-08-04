@@ -27,7 +27,7 @@
 * [Item 22: Use interfaces only to define types](Chapter-4/Item-22-Use-interfaces-only-to-define-types.md)
 * [Item 23: Prefer class hierarchies to tagged classes](Chapter-4/Item-23-Prefer-class-hierarchies-to-tagged-classes.md)
 * [Item 24: Favor static member classes over nonstatic](Chapter-4/Item-24-Favor-static-member-classes-over-nonstatic.md)
-* Item 25: Limit source files to a single top-level class
+* [Item 25: Limit source files to a single top-level class](Chapter-4/Item-25-Limit-source-files-to-a-single-top-level-class.md)
 ## Chapter 5 - Generics
 * Item 26: Don't use raw types
 * Item 27: Eliminate unchecked warnings
