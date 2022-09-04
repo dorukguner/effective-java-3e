@@ -29,7 +29,7 @@
 * [Item 24: Favor static member classes over nonstatic](Chapter-4/Item-24-Favor-static-member-classes-over-nonstatic.md)
 * [Item 25: Limit source files to a single top-level class](Chapter-4/Item-25-Limit-source-files-to-a-single-top-level-class.md)
 ## Chapter 5 - Generics
-* Item 26: Don't use raw types
+* [Item 26: Don't use raw types](Chapter-5/Item-26-Don't-use-raw-types.md)
 * Item 27: Eliminate unchecked warnings
 * Item 28: Prefer lists to arrays
 * Item 29: Favor generic types
